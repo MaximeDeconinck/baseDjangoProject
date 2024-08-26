@@ -1,1 +1,22 @@
 # baseDjangoProject
+
+Base main-app Django project with basic login and register features.
+https://private-user-images.githubusercontent.com/83770758/300282759-0a89166f-cd66-4413-baab-c01ad6596939.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2NjczMzIsIm5iZiI6MTcyNDY2NzAzMiwicGF0aCI6Ii84Mzc3MDc1OC8zMDAyODI3NTktMGE4OTE2NmYtY2Q2Ni00NDEzLWJhYWItYzAxYWQ2NTk2OTM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI2VDEwMTAzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlODQ3Yjc1ZjY4OGY1ZGZjMzgzYWExNDA0YmYzNGZhYzgzYmI2YjZhNzY5ZTZjNzE0MzUyODJiMGQ1NzQ3OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CSZnKt991EWTUm7fNrgH3yIhHEl45aqUo9oyNrEBYZg![image](https://github.com/user-attachments/assets/3453ea9f-06b5-4061-b98a-017ec6f13dd2)
+
+## Installation
+
+The only library needed is django-admin :
+```
+pip install django-admin
+```
+
+## Usage
+```
+python3 manage.py runserver
+```
+
+## Admin logs
+```
+username : admin
+password : admin
+```
